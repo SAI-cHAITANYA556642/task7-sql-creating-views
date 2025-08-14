@@ -5,22 +5,26 @@
 
 ## Tools Used
 >>MySQL Workbench<br>
-##Version Control System
+## Version Control System
 >>git<br>
 
 ## Key Concepts
-- Creating views with "CREATE VIEW" <br>
-- Using complex "SELECT" queries in views <br>
-- Filtering and securing data through views <br>
-- Using "WITH CHECK OPTION" <br>
-- Dropping views <br>
-- Understanding the limitations of views. <br>
+-->Creating views with "CREATE VIEW" <br>
+-->Using complex "SELECT" queries in views <br>
+-->Filtering and securing data through views <br>
+-->Using "WITH CHECK OPTION" <br>
+-->Dropping views <br>
+-->Understanding the limitations of views. <br>
+
+## Key Concepts  
+>> Views :A virtual table that comes from the result of a SQL query.<br>
+>> Data Abstraction: Hiding complex queries behind a simple object, the view, for easier access and security. <br> 
 
 
 ## Contents
-- SQL Scripts: Examples of view creation and usage <br>
-- Screenshots:Outputs from running queries in SQLite/MySQL <br>
-- README:This file, which explains the task <br>
+--> SQL Scripts: Examples of view creation and usage <br>
+-->Screenshots:Outputs from running queries in SQLite/MySQL <br>
+-->README:This file, which explains the task <br>
 
 ## Example Queries
 
